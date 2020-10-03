@@ -11,5 +11,5 @@
 - ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ## Some Statistics About Me
-![Satvik's github stats](https://github-readme-stats.vercel.app/api?username=theSatvik&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+<br>
 ![Satvik's github stats](https://github-readme-stats.vercel.app/api?username=theSatvik&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=radical)<br>
