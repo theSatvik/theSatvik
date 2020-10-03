@@ -2,6 +2,7 @@
 <h3 align="center"> Competitive Programmer 🎯 and MERN Developer ♟🎧</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theSatvik" alt="theSatvik" /> 
  <div> 
+  
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/) , 
   
 [![Competitive Programming? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
