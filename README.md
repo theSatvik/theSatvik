@@ -12,4 +12,4 @@
 
 ## Some Statistics About Me
 ![Satvik's github stats](https://github-readme-stats.vercel.app/api?username=theSatvik&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
-![Satvik's github stats](https://github-readme-stats.vercel.app/api?username=theSatvik&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)<br>
+![Satvik's github stats](https://github-readme-stats.vercel.app/api?username=theSatvik&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=radical)<br>
