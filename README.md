@@ -12,4 +12,5 @@
 
 ## Some Statistics About Me
 <br>
-![Satvik's github stats](https://github-readme-stats.vercel.app/api?username=theSatvik&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=radical)<br>
+[![Satvik's github stats](https://github-readme-stats.vercel.app/api?
+username=theSatvik&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=radical)]<br>
