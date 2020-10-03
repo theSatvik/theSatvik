@@ -1,12 +1,9 @@
 <h1 align="center"> Hello, I'm Satvik Shrivas 👋</h1>
 <h3 align="center"> Competitive Programmer 🎯 and MERN Developer ♟🎧</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theSatvik" alt="theSatvik" /> 
-  [![GitHub watchers](https://img.shields.io/github/watchers/theSatvik/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/theSatvik/StrapDown.js/watchers/)</p>
+  [![GitHub watchers](https://img.shields.io/github/watchers/theSatvik/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/theSatvik/watchers/)</p>
   
-  [![GitHub contributors](https://img.shields.io/github/contributors/theSatvik/StrapDown.js.svg)](https://GitHub.com/theSatvik/StrapDown.js/graphs/contributors/)
-  
-  [![GitHub pull-requests](https://img.shields.io/github/issues-pr/theSatvik/StrapDown.js.svg)](https://GitHub.com/theSatvik/StrapDown.js/pull/)
-  [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/theSatvik/StrapDown.js.svg)](https://GitHub.com/theSatvik/StrapDown.js/pull/)
+
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
 
 <br>
