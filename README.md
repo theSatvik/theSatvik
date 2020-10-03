@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on MERN stack projects . 
 - 💬 Ask me about anything . 
 - 📫 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/satvik-shrivas/)](https://www.linkedin.com/in/satvik-shrivas/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/satvik-shrivas/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:satvikshrivas26@gmail.commailto:satvikshrivas26@gmail.com)
 - ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
