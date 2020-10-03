@@ -13,7 +13,7 @@
 ## Some Statistics About Me
 <br>
 
-![Satvik's github stats](https://github-readme-stats.vercel.app/api?username=theSatvik&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+![Satvik's github stats](https://github-readme-stats.vercel.app/api?username=theSatvik&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=FCFBFB&bg_color=660F0F)<br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theSatvik)](https://github.com/theSatvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theSatvik&layout=compact)](https://github.com/theSatvik/github-readme-stats)
