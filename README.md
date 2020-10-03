@@ -8,7 +8,9 @@
 
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/satvik-shrivas/)
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:satvikshrivas26@gmail.com)](mailto:satvikshrivas26@gmail.com)
-
+,  [![Badge](https://cp-logo.vercel.app/codechef/satvikshrivas)]
+,  [![Badge](https://cp-logo.vercel.app/hackerrank/satvikshrivas26)]
+,  [![Badge](https://cp-logo.vercel.app/geeksforgeeks.org/user/satvikshrivas26)]
 - ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=000000)
 
 ## Some Statistics About Me
