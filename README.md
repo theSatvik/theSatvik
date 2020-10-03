@@ -1,10 +1,15 @@
 <h1 align="center"> Hello, I'm Satvik Shrivas 👋</h1>
 <h3 align="center"> Competitive Programmer 🎯 and MERN Developer ♟🎧</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theSatvik" alt="theSatvik" /> 
-  [![GitHub watchers](https://img.shields.io/github/watchers/theSatvik?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/theSatvik/watchers/)</p>
-  
-
+ <div> 
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
+[![Competitive Programming? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
+[![Attending college ? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
+[![Working on a project currently ? No!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
+[![Will work on new interesting projects? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
+[![Coronavirus? Negative😅!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
+[![Mask on 😷, System on 🐱‍💻, Hands on 🖎🏾, Brain on 🧠? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
+</div>
 
 <br>
 - 🔭 I’m currently working to Master React JS and React Native.   <br>
