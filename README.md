@@ -2,9 +2,7 @@
 <h3 align="center"> Competitive Programmer 🎯 and MERN Developer ♟🎧</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theSatvik" alt="theSatvik" /> 
  <div> 
-  
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/) ,    
-[![Competitive Programming? Yes!](https://badgen.net/badge/Competitive%20Programming%20%3F/Yes%21/red?icon=coder)](https://github.com/theSatvik/badges/) , 
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/),  [![Competitive Programming? Yes!](https://badgen.net/badge/Competitive%20Programming%20%3F/Yes%21/red?icon=coder)](https://github.com/theSatvik/badges/) , 
 [![Attending college? Yes!](https://badgen.net/badge/attending%20college%20%3F/Yes%21/black?icon=college)](https://github.com/theSatvik/badges/)
 , [![Will work on new interesting projects ? Yes!](https://badgen.net/badge/will%20work%20on%20new%20interesting%projects%20%3F/Yes%21/yellow?icon=project)](https://github.com/theSatvik/badges/), [![Coronavirus? Negative😅!](https://badgen.net/badge/Coronavirus%20Negative%20😅%20%3F/Negative!%21/green?icon=coronavirus)](https://github.com/theSatvik/badges/), [![MaskOn 😷, SystemOn 🐱‍💻, HandsOn 🖎🏾, BrainOn 🧠? Yes!](https://badgen.net/badge/MaskOn%20😷%20SystemOn%20🐱‍💻%20HandsOn%20🖎🏾%20BrainOn%20🧠%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
 </div>
@@ -20,6 +18,7 @@
 ,  [![Badge](https://cp-logo.vercel.app/codechef/satvikshrivas)](https://www.codechef.com/users/satvikshrivas)
 ,  [![hackerrank? Gold-Badge!](https://badgen.net/badge/hackerrank?%2%3F/Gold-Badge%21/1C8D11?icon=hackerrank)](https://github.com/theSatvik/badges/)
 ,  [![GeeksForGeeks? Rank-2 ](https://badgen.net/badge/hackerrank?%2%3F/Rank-2%21/lime?icon=geeksforgeeks)](https://github.com/theSatvik/badges/)
+[![GeeksForGeeks? Rank-2 ](https://badgen.net/badge/GeeksForGeeks%20😅%20%3F/Rank-2%21/green?icon=coronavirus)]
 - ⚡ Fun fact : I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=000000) and I'm a coffee lover ♨️
 
 ## Some Statistics About Me
