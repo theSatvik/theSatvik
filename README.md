@@ -5,7 +5,7 @@
   
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/) ,  [![Competitive Programming? Yes!](https://badgen.net/badge/Competitive%20Programming%20%3F/Yes%21/red?icon=coder)](https://github.com/theSatvik/badges/) , 
 [![Attending college? Yes!](https://badgen.net/badge/attending%20college%20%3F/Yes%21/black?icon=college)](https://github.com/theSatvik/badges/)
-, [![Will work on new interesting projects? Is this a question??](https://badgen.net/badge/Will%20work%20on%20new%20interesting%projects?%20%3F/Is%21this%21a%21question??%21/yellow?icon=project)](https://github.com/theSatvik/badges/), [![Coronavirus? Negative😅!](https://badgen.net/badge/Coronavirus%20Negative%20😅%20%3F/Negative!%21/green?icon=coronavirus)](https://github.com/theSatvik/badges/), [![MaskOn 😷, SystemOn 🐱‍💻, HandsOn 🖎🏾, BrainOn 🧠? Yes!](https://badgen.net/badge/MaskOn%20😷%20SystemOn%20🐱‍💻%20HandsOn%20🖎🏾%20BrainOn%20🧠%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
+, [![Will work on new interesting projects? Is this a question??](https://badgen.net/badge/Will%20work%20on%20new%20interesting%projects?%20%3F/Is%20this%20a%20question??%21/yellow?icon=project)](https://github.com/theSatvik/badges/), [![Coronavirus? Negative😅!](https://badgen.net/badge/Coronavirus%20Negative%20😅%20%3F/Negative!%21/green?icon=coronavirus)](https://github.com/theSatvik/badges/), [![MaskOn 😷, SystemOn 🐱‍💻, HandsOn 🖎🏾, BrainOn 🧠? Yes!](https://badgen.net/badge/MaskOn%20😷%20SystemOn%20🐱‍💻%20HandsOn%20🖎🏾%20BrainOn%20🧠%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
 </div>
 
 <br>
@@ -23,7 +23,7 @@
 
 ## Some Statistics About Me
 <br>
-*NOTE: Top languages does not indicate my skill level , it's a github metric of which languages I have the most code on github, it's a new feature of
+*NOTE: Top languages does not indicate my skill level , it's a github metric of which languages I have the most code on github .
 
 ![Satvik's github stats](https://github-readme-stats.vercel.app/api?username=theSatvik&&show_icons=true&title_color=ffffff&icon_color=35F622&text_color=FCFBFB&bg_color=0B2A08)
 
