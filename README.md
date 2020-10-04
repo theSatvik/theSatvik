@@ -26,14 +26,9 @@
 *NOTE: Top languages does not indicate my skill level , it's a github metric of which languages I have the most code on github .
 <br>
 <div>
- <p style= "align:left">
-
+ 
 ![Satvik's github stats](https://github-readme-stats.vercel.app/api?username=theSatvik&&show_icons=true&title_color=ffffff&icon_color=35F622&text_color=FCFBFB&bg_color=0B2A08)
 
-</p>
-  <p style=" align:right">
-   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theSatvik&title_color=ffffff&icon_color=35F622&text_color=FCFBFB&bg_color=0B2A08&layout=compact)](https://github.com/theSatvik/github-readme-stats)
-   
-   </p>
+
 </div>
