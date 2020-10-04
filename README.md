@@ -8,9 +8,9 @@
 [![Competitive Programming? Yes!](https://badgen.net/badge/Competitive%20Programming%20%3F/Yes%21/red?icon=coder)](https://github.com/theSatvik/badges/)
 [![Attending college ? Yes!](https://badgen.net/badge/Attending%20college%20%3F/Yes%21/blue?icon=college)](https://github.com/theSatvik/badges/)
 
-[![Will work on new interesting projects? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/cyan?icon=projects)](https://github.com/theSatvik/badges/)
-[![Coronavirus? Negative😅!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/green?icon=coronavirus)](https://github.com/theSatvik/badges/)
-[![MaskOn 😷, SystemOn 🐱‍💻, HandsOn 🖎🏾, BrainOn 🧠? Yes!](https://badgen.net/badge/[MaskOn%20SystemOn%20HandsOn%20BrainOn%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
+[![Will work on new interesting projects? Yes!](https://badgen.net/badge/Will%20work%20on%20new%20interesting%projects?%20%3F/Yes%21/cyan?icon=projects)](https://github.com/theSatvik/badges/)
+[![Coronavirus? Negative😅!](https://badgen.net/badge/Coronavirus?%20Negative%20😅%20%3F/Yes%21/green?icon=coronavirus)](https://github.com/theSatvik/badges/)
+[![MaskOn 😷, SystemOn 🐱‍💻, HandsOn 🖎🏾, BrainOn 🧠? Yes!](https://badgen.net/badge/[MaskOn%20😷%20SystemOn%20🐱‍💻%20HandsOn%20🖎🏾%20BrainOn%20🧠%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
 </div>
 
 <br>
