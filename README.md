@@ -6,9 +6,11 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/) , 
   
 [![Competitive Programming? Yes!](https://badgen.net/badge/Competitive%20Programming%20%3F/Yes%21/red?icon=coder)](https://github.com/theSatvik/badges/)
+
 [![Attending college ? Yes!](https://badgen.net/badge/Attending%20college%20%3F/Yes%21/blue?icon=college)](https://github.com/theSatvik/badges/)
 
-[![Will work on new interesting projects? Yes!](https://badgen.net/badge/Will%20work%20on%20new%20interesting%projects?%20%3F/Yes%21/cyan?icon=projects)](https://github.com/theSatvik/badges/)
+[![Will work on new interesting projects? Yes!](https://badgen.net/badge/Will%20work%20on%20new%20interesting%projects%20%3F/Yes%21/cyan?icon=project)](https://github.com/theSatvik/badges/)
+
 [![Coronavirus? Negative😅!](https://badgen.net/badge/Coronavirus?%20Negative%20😅%20%3F/Yes%21/green?icon=coronavirus)](https://github.com/theSatvik/badges/)
 [![MaskOn 😷, SystemOn 🐱‍💻, HandsOn 🖎🏾, BrainOn 🧠? Yes!](https://badgen.net/badge/[MaskOn%20😷%20SystemOn%20🐱‍💻%20HandsOn%20🖎🏾%20BrainOn%20🧠%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
 </div>
@@ -22,9 +24,9 @@
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/satvik-shrivas/)
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:satvikshrivas26@gmail.com)](mailto:satvikshrivas26@gmail.com)
 ,  [![Badge](https://cp-logo.vercel.app/codechef/satvikshrivas)](https://www.codechef.com/users/satvikshrivas)
-,  [![Badge](https://cp-logo.vercel.app/hackerrank/satvikshrivas26)](https://auth.geeksforgeeks.org/user/satvikshrivas26/profile)
-,  [![Badge](https://cp-logo.vercel.app/geeksforgeeks/satvikshrivas26)](https://www.hackerrank.com/satvikshrivas26)
-- ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=000000) and a coffee lover ♨️
+,  [![hackerrank? Gold-Badge!](https://badgen.net/badge/hackerrank?%2%3F/Yes%21/1C8D11?icon=github)](https://github.com/theSatvik/badges/)
+,  [![GeeksForGeeks? Rank-2 ](https://badgen.net/badge/hackerrank?%2%3F/Yes%21/lime?icon=geeksforgeeks)](https://github.com/theSatvik/badges/)
+- ⚡ Fun fact : I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=000000) and I'm a coffee lover ♨️
 
 ## Some Statistics About Me
 <br>
