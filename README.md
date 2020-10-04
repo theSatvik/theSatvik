@@ -24,8 +24,8 @@
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/satvik-shrivas/)
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:satvikshrivas26@gmail.com)](mailto:satvikshrivas26@gmail.com)
 ,  [![Badge](https://cp-logo.vercel.app/codechef/satvikshrivas)](https://www.codechef.com/users/satvikshrivas)
-,  [![hackerrank? Gold-Badge!](https://badgen.net/badge/hackerrank?%2%3F/Yes%21/1C8D11?icon=github)](https://github.com/theSatvik/badges/)
-,  [![GeeksForGeeks? Rank-2 ](https://badgen.net/badge/hackerrank?%2%3F/Yes%21/lime?icon=geeksforgeeks)](https://github.com/theSatvik/badges/)
+,  [![hackerrank? Gold-Badge!](https://badgen.net/badge/hackerrank?%2%3F/Gold-Badge%21/1C8D11?icon=hackerrank)](https://github.com/theSatvik/badges/)
+,  [![GeeksForGeeks? Rank-2 ](https://badgen.net/badge/hackerrank?%2%3F/Rank-2%21/lime?icon=geeksforgeeks)](https://github.com/theSatvik/badges/)
 - ⚡ Fun fact : I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=000000) and I'm a coffee lover ♨️
 
 ## Some Statistics About Me
