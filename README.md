@@ -5,12 +5,12 @@
   
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/) , 
   
-[![Competitive Programming? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
-[![Attending college ? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
-[![Working on a project currently ? No!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
-[![Will work on new interesting projects? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
-[![Coronavirus? Negative😅!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
-[![Mask on 😷, System on 🐱‍💻, Hands on 🖎🏾, Brain on 🧠? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
+[![Competitive Programming? Yes!](https://badgen.net/badge/Competitive%20Programming%20%3F/Yes%21/red?icon=coder)](https://github.com/theSatvik/badges/)
+[![Attending college ? Yes!](https://badgen.net/badge/Attending%20college%20%3F/Yes%21/blue?icon=college)](https://github.com/theSatvik/badges/)
+
+[![Will work on new interesting projects? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/cyan?icon=projects)](https://github.com/theSatvik/badges/)
+[![Coronavirus? Negative😅!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/green?icon=coronavirus)](https://github.com/theSatvik/badges/)
+[![MaskOn 😷, SystemOn 🐱‍💻, HandsOn 🖎🏾, BrainOn 🧠? Yes!](https://badgen.net/badge/[MaskOn%20SystemOn%20HandsOn%20BrainOn%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
 </div>
 
 <br>
@@ -30,6 +30,5 @@
 <br>
 
 ![Satvik's github stats](https://github-readme-stats.vercel.app/api?username=theSatvik&&show_icons=true&title_color=ffffff&icon_color=35F622&text_color=FCFBFB&bg_color=0B2A08)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theSatvik&layout=compact)](https://github.com/theSatvik/github-readme-stats)
