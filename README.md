@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theSatvik" alt="theSatvik" /> 
  <div> 
   
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/) ,  [![Competitive Programming? Yes!](https://badgen.net/badge/Competitive%20Programming%20%3F/Yes%21/red?icon=coder)](https://github.com/theSatvik/badges/) , 
-[![Attending college? Yes!](https://badgen.net/badge/attending%20college%20%3F/Yes%21/black?icon=college)](https://github.com/theSatvik/badges/)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/3EBCEC?icon=github)](https://github.com/theSatvik/badges/) ,  [![Competitive Programming? Yes!](https://badgen.net/badge/Competitive%20Programming%20%3F/Yes%21/red?icon=coder)](https://github.com/theSatvik/badges/) , 
+[![Attending college? Yes!](https://badgen.net/badge/Attending%20college%20%3F/Yes%21/black?icon=college)](https://github.com/theSatvik/badges/)
 ,  [![Coronavirus? Negative😅!](https://badgen.net/badge/Coronavirus%20Negative%20😅%20%3F/Negative!%21/green?icon=coronavirus)](https://github.com/theSatvik/badges/), [![MaskOn 😷, SystemOn 🐱‍💻, HandsOn 🖎🏾, BrainOn 🧠? Yes!](https://badgen.net/badge/MaskOn%20😷%20SystemOn%20🐱‍💻%20HandsOn%20🖎🏾%20BrainOn%20🧠%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
 </div>
 
