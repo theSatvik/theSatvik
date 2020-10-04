@@ -3,13 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theSatvik" alt="theSatvik" /> 
  <div> 
   
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/) , 
-  
-[![Competitive Programming? Yes!](https://badgen.net/badge/Competitive%20Programming%20%3F/Yes%21/red?icon=coder)](https://github.com/theSatvik/badges/)
-
-[![Attending college? Yes!](https://badgen.net/badge/attending%20college%20%3F/Yes%21/blue?icon=college)](https://github.com/theSatvik/badges/)
-
-[![Will work on new interesting projects? Yes!](https://badgen.net/badge/will%20work%20on%20new%20interesting%projects%20%3F/Yes%21/cyan?icon=project)](https://github.com/theSatvik/badges/) [![Coronavirus? Negative😅!](https://badgen.net/badge/Coronavirus%20Negative%20😅%20%3F/Negative😅!%21/green?icon=coronavirus)](https://github.com/theSatvik/badges/)  [![MaskOn 😷, SystemOn 🐱‍💻, HandsOn 🖎🏾, BrainOn 🧠? Yes!](https://badgen.net/badge/[MaskOn%20😷%20SystemOn%20🐱‍💻%20HandsOn%20🖎🏾%20BrainOn%20🧠%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/) ,    
+[![Competitive Programming? Yes!](https://badgen.net/badge/Competitive%20Programming%20%3F/Yes%21/red?icon=coder)](https://github.com/theSatvik/badges/) , 
+[![Attending college? Yes!](https://badgen.net/badge/attending%20college%20%3F/Yes%21/black?icon=college)](https://github.com/theSatvik/badges/)
+, [![Will work on new interesting projects? Yes!](https://badgen.net/badge/will%20work%20on%20new%20interesting%projects%20%3F/Yes%21/cyan?icon=project)](https://github.com/theSatvik/badges/), [![Coronavirus? Negative😅!](https://badgen.net/badge/Coronavirus%20Negative%20😅%20%3F/Negative😅!%21/green?icon=coronavirus)](https://github.com/theSatvik/badges/), [![MaskOn 😷, SystemOn 🐱‍💻, HandsOn 🖎🏾, BrainOn 🧠? Yes!](https://badgen.net/badge/MaskOn%20😷%20SystemOn%20🐱‍💻%20HandsOn%20🖎🏾%20BrainOn%20🧠%20%3F/Yes%21/blue?icon=github)](https://github.com/theSatvik/badges/)
 </div>
 
 <br>
@@ -27,7 +24,8 @@
 
 ## Some Statistics About Me
 <br>
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of
+*NOTE: Top languages does not indicate my skill level , it's a github metric of which languages I have the most code on github, it's a new feature of
+
 ![Satvik's github stats](https://github-readme-stats.vercel.app/api?username=theSatvik&&show_icons=true&title_color=ffffff&icon_color=35F622&text_color=FCFBFB&bg_color=0B2A08)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theSatvik&layout=compact)](https://github.com/theSatvik/github-readme-stats)
