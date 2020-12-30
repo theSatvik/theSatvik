@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on MERN stack projects . <br>
 - 💬 Ask me about anything . <br>
 
-- 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/satvik-shrivas/)
+- 📫 How to reach me:  Click here : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/satvik-shrivas/)
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:satvikshrivas26@gmail.com)](mailto:satvikshrivas26@gmail.com)
 ,  [![Badge](https://cp-logo.vercel.app/codechef/satvikshrivas)](https://www.codechef.com/users/satvikshrivas)
 ,  ![hackerrank? Gold-Badge!](https://badgen.net/badge/hackerrank%20%3F/Gold-Badge!%21/D4AF37?icon=hackerrank)
